@@ -1,0 +1,24 @@
+.xfr_settings {
+    margin: 5px 15px 2px;
+}
+.xfr_settings .notice{
+    margin: 0;
+}
+.xfr_settings .xfr_content {
+    margin-top: 10px;
+}
+.xfr_content h2 {
+    margin: 0;
+}
+.xfr_content .xfr-bold{
+    font-weight: 700;
+}
+.xfr_content .xfr_content__form,
+.xfr_content .xfr_content__info{ 
+    background: #fff;
+    padding: 10px;
+    border: solid 1px #000;
+}
+.xfr_content .xfr_content__form {
+    margin-top: 15px;
+}
